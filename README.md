@@ -1,2 +1,2 @@
-# frontend
-Web client for Kadracoon. A browser-based movie guessing game interface via Svelte
+# Kadracoon Frontend
+Svelte/React web client for the Kadracoon movie guessing game.
